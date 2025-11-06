@@ -60,3 +60,10 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+# API-Key
+Info.plist
+Secrets.plist
+Config.plist
+*Keys*
+*API*
