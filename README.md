@@ -2,7 +2,7 @@
 My final exam project for the Swift course
 #  PhishChecker
 
-![Screenshot]([img/pexels-pixabay-60504.png](https://github.com/HattoriHanzo1412/CheckerApp/blob/main/03-11-abschlussprojekt-HattoriHanzo1412/img/pexels-pixabay-60504.png))
+![Screenshot](https://github.com/HattoriHanzo1412/CheckerApp/tree/main/03-11-abschlussprojekt-HattoriHanzo1412#phishchecker)
 
 **Schütze dich vor Phishing mit nur einem Klick.**
 
